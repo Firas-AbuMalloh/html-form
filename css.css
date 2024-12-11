@@ -1,0 +1,19 @@
+ table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+table{
+    text-align: center;
+}
+form {
+    background-color: bisque;
+
+    justify-content:center;
+    width: 400px; 
+    padding: 10px;
+    border: 1px solid;
+}
+.container{
+    width: 600px;
+    border: 1px solid;
+}
